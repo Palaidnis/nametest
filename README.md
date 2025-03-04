@@ -1,2 +1,1 @@
-# Example
-An example greeter plugin
+Plugin that helps checking available display names.
